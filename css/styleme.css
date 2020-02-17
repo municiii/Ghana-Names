@@ -1,0 +1,9 @@
+
+.title h1 {
+    background-color: blue;
+}
+.text-box{
+    border: 4px red;
+    padding: 6px;
+    margin: 20px;
+}
