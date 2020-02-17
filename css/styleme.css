@@ -2,8 +2,14 @@
 .title h1 {
     background-color: blue;
 }
-.text-box{
-    border: 4px red;
-    padding: 6px;
-    margin: 20px;
+body {
+    line-height: 50px;
+    background-color: burlywood;
+    background-image: url(../1200px-Flag_of_Ghana.svg.png);
+}
+
+.card{
+   height: 400px;
+    width: 700px;
+    position: absolute;
 }
